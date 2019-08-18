@@ -4,7 +4,7 @@ This is a Node.js command line application that allows the user to enter four di
 * *concert-this [artist/band name here]*
     ![concert-this](./Examples/concert-this_WithArtistName.PNG)
 * *spotify-this-song [song name here]*
-    ![spotify-this-song](./Examples/spotify-this-song_WithSongName.PNG)
+    ![spotify-this-song](./Examples/spotify-this-song_WithSongName.png)
 * *movie-this [movie name here]*
     ![movie-this](./Examples/movie-this_WithMovieName.PNG)
 * *do-what-it-says*
